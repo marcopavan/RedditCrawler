@@ -1,5 +1,6 @@
 # RedditCrawler
-A reddit crawler based on the official Reddit API used to extract complete conversations starting from a conversation ID, or a keyword like "top" or "hot" to get a set of conversations from the reddit popular lists.
+Reddit Crawler is a tool based on the official Reddit API used to extract complete conversations.
+It is possibile to run the tool using a conversation ID, or a keyword like "top" or "hot" to get a set of conversations from the Reddit popular lists.
 
 ## Usage example:
 ```
